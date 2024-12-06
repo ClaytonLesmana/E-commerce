@@ -39,7 +39,7 @@ This project is a fully functional e-commerce platform built with the MERN (Mong
 
 ---
 
-** Link Frontend = https://e-commerce-frontend-ov7xyy9or-claytons-projects-55182f1c.vercel.app/
-** Link Admin = https://e-commerce-admin-ridxjnpuf-claytons-projects-55182f1c.vercel.app/
+## Link Frontend = https://e-commerce-frontend-ov7xyy9or-claytons-projects-55182f1c.vercel.app/
+## Link Admin = https://e-commerce-admin-ridxjnpuf-claytons-projects-55182f1c.vercel.app/
 
 
